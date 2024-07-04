@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="GitHub Profile"/>
-  <img src="https://komarev.com/ghpvc/?username=Olooce&style=flat-square&color=orange" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ColeMitnik&style=flat-square&color=orange" alt="Profile Views"/>
   <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/></h1>
   <h3>Thanks for taking the time to visit and read my GitHub profile.</h3>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
@@ -65,15 +65,15 @@
   <div style="display: flex; justify-content: space-between; flex-direction: row; flex-wrap: wrap;">
     <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Contribution Stats</h3>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Olooce&theme=dark&background=000000" alt="GitHub Streak"/>
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=ColeMitnik&theme=dark&background=000000" alt="GitHub Streak"/>
     </div>
     <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Top Public Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColeMitnik&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
     </div>
     <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
       <h3 style="color: #fff;">Weekly Coding Time</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ColeMitnik&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
     </div>
   </div>
 </div>

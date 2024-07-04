@@ -31,7 +31,7 @@
     <strong>Collaboration:</strong> I'm open to collaborating on Data Science, Web, and Mobile development projects.
   </p>
   <p align="left">
-    <strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/oloo-stephen-asira/">LinkedIn</a>
+    <strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/cole-mitnik-/">LinkedIn</a>
   </p>
   <p align="left">
     <strong>Location:</strong> Based in Kenya.

@@ -13,10 +13,10 @@
 
 <div align="center">
   <p align="left">
-    As a full-stack developer, I specialize in Python, Java, C, and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
+    As a full-stack developer, I specialize in Java, Python, and JavaScript, enabling me to excel in both backend and frontend development. I design efficient solutions to software challenges, ensuring a seamless user experience.
   </p>
   <p align="left">
-    <strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security using Java, C, and Python.
+    <strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security using Java, and Python.
   </p>
   <p align="left">
     <strong>Frontend:</strong> I build modern web applications with React and Next.js, creating dynamic user interfaces with reusable components and efficient rendering.
@@ -34,7 +34,7 @@
     <strong>Connect with me:</strong> <a href="https://www.linkedin.com/in/cole-mitnik-/">LinkedIn</a>
   </p>
   <p align="left">
-    <strong>Location:</strong> Based in Kenya.
+    <strong>Location:</strong> Based in Nairobi, Kenya.
   </p>
 </div>
 

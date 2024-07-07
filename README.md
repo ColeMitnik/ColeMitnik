@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Digital DNA
 
 <div align="center">
   <p align="left">

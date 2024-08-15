@@ -63,19 +63,6 @@
 </div>
 
 ---
-### :chart_with_upwards_trend: My GitHub Stats
-
-<div align="center">
-  <div style="display: flex; justify-content: space-between; flex-direction: row; flex-wrap: wrap;">
-    <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
-      <h3 style="color: #fff;">Contribution Stats</h3>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=ColeMitnik&theme=dark&background=000000" alt="GitHub Streak"/>
-    </div>
-    <div style="flex: 1; margin: 10px; padding: 20px; background-color: #1a1a1a; border-radius: 6px;">
-      <h3 style="color: #fff;">Weekly Coding Time</h3>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ColeMitnik&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
-    </div>
-  </div>
   <div>
     <h3>Forking Great to See You🤖</h3>
   </div>

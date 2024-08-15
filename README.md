@@ -64,6 +64,6 @@
 
 ---
   <div>
-    <h3>Forking Great to See You🤖</h3>
+    <h3>As a developer, I’m eager to collaborate and innovate🤖</h3>
   </div>
 </div>

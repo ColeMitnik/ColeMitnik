@@ -19,10 +19,10 @@
     Crafting end-to-end solutions with a passion for clean code and seamless user experiences.
   </p>
   <p align="left">
-    <strong>🔧 Backend:</strong> RESTful & GraphQL APIs, database optimization, robust security implementation using Java and Python.
+    <strong>🔧 Backend:</strong> RESTful APIs, database optimization, robust security implementation using Java and Python.
   </p>
   <p align="left">
-    <strong>🎨 Frontend:</strong> React & Next.js expert, creating dynamic UIs with reusable components and performance-driven rendering.
+    <strong>🎨 Frontend:</strong> React & Flutter expert, creating dynamic UIs with reusable components and performance-driven rendering.
   </p>
   <p align="left">
     <strong>📝 Tech Translator:</strong> Transforming complex concepts into user-friendly documentation, enhancing user experience and understanding.
@@ -40,7 +40,7 @@
     <strong>📍 Location:</strong> Based in Nairobi, Kenya.
   </p>
   <p align="left">
-    Let's build something amazing together! 💻✨
+    Let's get coding! 💻
   </p>
 </div>
 

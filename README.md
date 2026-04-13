@@ -13,7 +13,7 @@
 ### 👨‍💻 Professional Profile
 <div align="center">
   <p align="left">
-    🚀 <strong> Full-Stack </strong> | Java | Python | Sql
+    🚀 <strong> Full-Stack </strong> | Jupyter | Python | Sql
   </p>
   <p align="left">
     <strong>🔧 Backend Engineering:</strong> Expert in designing robust RESTful APIs, implementing microservices architecture, and optimizing database performance.
